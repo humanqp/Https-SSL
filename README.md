@@ -15,3 +15,5 @@
   - Client와 Server 간 대층키가 공유되었고, 서로간 데이터 전송에 해당 대층키를 사용함.
 
 > ### 
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb25uZWN0S2V5IjoiMGYwZWQwNDkyOWZjYTMwMTQwMDBlMWE1YWMzOTdmOTIiLCJub25jZSI6MTUzNTM2OTM3NjIzMywiaWF0IjoxNTM1MzY5Mzc2fQ.YUtfdgaEqsy7qAuAhttPO1sgBf4rmvoQ38bS30H4v4A
